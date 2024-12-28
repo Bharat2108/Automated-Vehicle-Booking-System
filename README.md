@@ -2,15 +2,22 @@
 
 The Automated Vehicle Booking System is a web application designed to streamline the process of booking vehicles for transportation services. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), the system incorporates machine learning techniques for demand prediction and vehicle allocation optimization.
 
+
 Key Features:
 User-Friendly Interface: A React.js frontend for users to book vehicles effortlessly.
 Real-Time Availability: Provides updated information about vehicle availability.
 Demand Prediction: Uses machine learning to forecast user demand and optimize vehicle allocation.
 Operational Efficiency: Reduces wait times and improves resource utilization for transportation service providers.
+
 Technical Stack:
+
 Frontend: React.js
+
 Backend: Node.js with Express.js
+
 Database: MongoDB
+
+
 Additional Configurations: Includes a configuration for connecting to the database and modular code for scalability.
 Folder Structure:
 backend/:
