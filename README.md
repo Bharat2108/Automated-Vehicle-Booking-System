@@ -25,6 +25,8 @@ package.json: Dependencies for frontend development.
 config/:
 database.js: MongoDB connection configuration.
 README.md: A detailed overview of the project.
+
+
 Outcomes:
 Increased efficiency in vehicle allocation.
 Improved customer satisfaction by reducing wait times.
